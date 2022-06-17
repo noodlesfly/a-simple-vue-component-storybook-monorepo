@@ -1,6 +1,6 @@
 <template>
   <input
-    type="text"
+    :type="type"
     :value="value"
     @input="inputHandler($event)"
     v-bind="$attrs"
