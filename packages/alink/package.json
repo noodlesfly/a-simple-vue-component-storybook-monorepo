@@ -1,13 +1,15 @@
 {
-  "name": "lg-link",
-  "version": "0.0.2",
-  "description": "lg-link component",
+  "name": "wzp-alink",
+  "version": "0.0.0",
+  "description": "wzp-alink component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
-  "author": "教瘦 <54337467@qq.com>",
+  "author": "noodlesfly",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
   },
   "keywords": []
 }

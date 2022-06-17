@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "LgLink",
+  name: "WzpAlink",
   props: {
     href: {
       type: String,
@@ -33,3 +33,4 @@ export default {
   text-decoration: none;
 }
 </style>
+
